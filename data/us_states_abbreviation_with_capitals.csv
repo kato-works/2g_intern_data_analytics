@@ -1,0 +1,51 @@
+state_name,state,capital,latitude,longitude
+Alabama,AL,Montgomery,32.3668052,-86.2999689
+Alaska,AK,Juneau,58.3019444,-134.4197221
+Arizona,AZ,Phoenix,33.4483771,-112.0740373
+Arkansas,AR,Little Rock,34.7464809,-92.2895948
+California,CA,Sacramento,38.5815719,-121.4943996
+Colorado,CO,Denver,39.7392358,-104.990251
+Connecticut,CT,Hartford,41.7658043,-72.6733723
+Delaware,DE,Dover,39.158168,-75.5243682
+Florida,FL,Tallahassee,30.4382559,-84.2807329
+Georgia,GA,Atlanta,33.7490987,-84.3901849
+Hawaii,HI,Honolulu,21.3069444,-157.8583333
+Idaho,ID,Boise,43.6150186,-116.2023137
+Illinois,IL,Springfield,39.7817213,-89.6501481
+Indiana,IN,Indianapolis,39.768403,-86.158068
+Iowa,IA,Des Moines,41.5868353,-93.625
+Kansas,KS,Topeka,39.0473451,-95.675158
+Kentucky,KY,Frankfort,38.2009055,-84.8732836
+Louisiana,LA,Baton Rouge,30.4514677,-91.1871466
+Maine,ME,Augusta,44.3106241,-69.7794909
+Maryland,MD,Annapolis,38.9784453,-76.4921829
+Massachusetts,MA,Boston,42.3600825,-71.0588801
+Michigan,MI,Lansing,42.732535,-84.5555347
+Minnesota,MN,Saint Paul,44.9537029,-93.0899578
+Mississippi,MS,Jackson,32.2987573,-90.1848103
+Missouri,MO,Jefferson City,38.5767017,-92.1735164
+Montana,MT,Helena,46.5891452,-112.0391057
+Nebraska,NE,Lincoln,40.813616,-96.7025955
+Nevada,NV,Carson City,39.1637984,-119.7674034
+New Hampshire,NH,Concord,43.2081366,-71.5375718
+New Jersey,NJ,Trenton,40.2170534,-74.7429384
+New Mexico,NM,Santa Fe,35.687,-105.937799
+New York,NY,Albany,42.6525793,-73.7562317
+North Carolina,NC,Raleigh,35.7795897,-78.6381787
+North Dakota,ND,Bismarck,46.8083268,-100.7837392
+Ohio,OH,Columbus,39.9611755,-82.9987942
+Oklahoma,OK,Oklahoma City,35.4675602,-97.5164276
+Oregon,OR,Salem,44.9428975,-123.0350963
+Pennsylvania,PA,Harrisburg,40.2731911,-76.8844179
+Rhode Island,RI,Providence,41.8239891,-71.4128343
+South Carolina,SC,Columbia,34.0007104,-81.0348144
+South Dakota,SD,Pierre,44.3683156,-100.3509665
+Tennessee,TN,Nashville,36.1626638,-86.7816016
+Texas,TX,Austin,30.267153,-97.7430608
+Utah,UT,Salt Lake City,40.7607793,-111.8910474
+Vermont,VT,Montpelier,44.2600593,-72.5753869
+Virginia,VA,Richmond,37.5385087,-77.43428
+Washington,WA,Olympia,47.0378741,-122.9006951
+West Virginia,WV,Charleston,38.3498195,-81.6326234
+Wisconsin,WI,Madison,43.0730517,-89.4012302
+Wyoming,WY,Cheyenne,41.1399814,-104.8202462
